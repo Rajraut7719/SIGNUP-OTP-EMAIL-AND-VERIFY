@@ -1,6 +1,6 @@
-# SIGNUP-OTP-EMAIL-AND-VERIFY
+# 
 
-# Simple crud with django :snake:
+# SIGNUP-OTP-EMAIL-AND-VERIFY :computer:
 
 1 - First, let's create our virtual env:
 ```python
